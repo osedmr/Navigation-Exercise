@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_first_graph"
+        android:title="First"
+        android:icon="@drawable/one"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/firstFragment"
+        android:title="First"
+        android:icon="@drawable/two"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/three"
+        android:title="First"
+        app:showAsAction="always"
+        />
+
+</menu>
